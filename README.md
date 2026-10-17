@@ -1,6 +1,25 @@
-## Hi there 👋
-I am currently workking on building **value robust** cloud infustructure that serve the vision , mission and values of companies obsessed with change , growth and invention . 
+# Hi, I'm Nhlakanipho 👋
 
+I'm an aspiring Cloud Engineer based in Johannesburg, South Africa.
+
+I'm passionate about cloud computing, networking, cybersecurity, and building reliable IT infrastructure.
+
+### 🚀 What I'm Learning
+- AWS and Microsoft Azure
+- Cloud Infrastructure and Networking
+- Linux and Automation
+- Cybersecurity and DevOps
+
+### 🏆 Certifications
+- CompTIA A+
+- CompTIA Network+
+- CompTIA CIOS
+
+### 🔗 Connect With Me
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/nhlakanipho-kubheka-235594169/)
+- **GitHub:** [My GitHub](https://github.com/Nipho5555)
+
+I'm continuously developing my technical skills through hands-on projects and practical learning.
 
 <!--
 **Nipho5555/Nipho5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
