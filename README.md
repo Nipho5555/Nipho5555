@@ -19,7 +19,8 @@ I'm passionate about cloud computing, networking, cybersecurity, and building re
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/nhlakanipho-kubheka-235594169/)
 - **GitHub:** [My GitHub](https://github.com/Nipho5555)
 
-I'm continuously developing my technical skills through hands-on projects and practical learning.
+I'm continuously developing my technical skills through hands-on projects and practical learning. Stay tuned 
+
 
 <!--
 **Nipho5555/Nipho5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
